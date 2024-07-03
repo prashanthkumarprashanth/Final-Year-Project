@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+sklearn
+beautifulsoup4
+requests
+matplotlib
+seaborn
+wordcloud
+plotly
